@@ -800,7 +800,7 @@ nav {
     display: flex;
     width: 78%;
     height: auto;
-    margin: 1% 10%;
+    margin: 1% 5%;
     align-items: center;
   }
 
@@ -904,7 +904,7 @@ nav {
     color: white;
     font-size: 27px;
     position: absolute;
-    top: 38%;
+    top: 44%;
   }
 
   .resistant {
@@ -913,7 +913,7 @@ nav {
     color: white;
     font-size: 27px;
     position: absolute;
-    top: 38%;
+    top: 44%;
   }
 
   .weaknesses {
@@ -923,7 +923,7 @@ nav {
     color: white;
     font-size: 27px;
     position: absolute;
-    top: 38%;
+    top: 44%;
   }
 
   .ordenar {
