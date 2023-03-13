@@ -13,7 +13,7 @@ Para poder conocer a nuestros usuarios realizamos un sondeo en un grupo de usuar
 * Los usuarios buscan conocer las características de los pokemones para aumentar las posibilidades de éxito en el juego.
 * Desean utilizar el producto en su tiempo libre.
 ## 3. Historia de usuario
-### Historia N°1
+### Historia N°1 - Mostrar
 **Como:** Jugador novato de Pokémon Go\
 **Quiero:** Conocer/visualizar las características de los pokemones más populares \
 **Para:** Entrar al mundo de este juego.
@@ -28,7 +28,7 @@ Para poder conocer a nuestros usuarios realizamos un sondeo en un grupo de usuar
 
 ### Prototipo de alta fidelidad
 ![Alta-fidelidad](./HI1.png)
-### Historia N°2
+### Historia N°2 - Filtrar
 **Como:** Yo, como jugadora novata de Pokemon Go, 
 **Quiero:** Filtrar los pokemones por: nombre , tipo, resistencia y debilidad / 
 **Para:** Ubicar de manera rápida los elementos deseados. Y así conocer las características de mi pokemon y de mis adversarios.\
@@ -39,7 +39,7 @@ Para poder conocer a nuestros usuarios realizamos un sondeo en un grupo de usuar
 - Al dar clic se visualizará el resultado de la elección.
 ### Prototipo de alta fidelidad
 ![Alta-fidelidad](./prototipoAltaHU2.JPG)
-### Historia N°3
+### Historia N°3 - Ordenar
 **Como:** Jugadora de Pokémon Go Novata.\
 **Quiero:** poder ordenar los diferentes tipos de pokemones de acuerdo a :Height y CP de manera ascendente y descendente en ambos casos/ poder encontrar de manera rápida las características que busco de cada personaje ..\
 **Para:** Poder encontrar de manera rápida las características que busco de cada personaje ..\
@@ -49,7 +49,7 @@ Para poder conocer a nuestros usuarios realizamos un sondeo en un grupo de usuar
 - Al seleccionar una de las 4 opciones, se visualizará el resultado  en un Alert de la elección.
 ### Prototipo de alta fidelidad
 ![Alta-fidelidad](./prototipoAltaHU3.JPG)
-### Historia N°4
+### Historia N°4 - Calcular
 **Como:** Yo, como jugadora novata de Pokemon Go, 
 **Quiero:** poder realizar algunos cálculos con la data disponible en ésta página, como : hallar los porcentajes de pokemones por Tipo / 
 **Para:** Saber el porcentaje de su poblacion-clasificación, las crean relaciones entre ellos basadas en las ventajas y debilidades de los tipos. \
