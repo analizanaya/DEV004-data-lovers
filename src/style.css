@@ -1,4 +1,4 @@
-*{
+* {
   font-family: 'Inter', sans-serif;
 }
 
@@ -15,50 +15,55 @@ article {
   width: 100%;
   height: 250px;
 }
-.calcular2{
+
+.calcular2 {
   display: flex;
   background-color: #1D2C5E;
   border-radius: 10px;
-  margin: -11% 1% 3% 31%;
-  width: 33%;
+  margin: -10% 1% 3% 36%;
+  width: 26%;
   color: white;
-  font-size: 11px;
+  font-size: 9px;
   padding: 1%;
   font-weight: 600;
 
 }
 
-.palabra1movil{
+.palabra1movil {
   color: #3A5CA8;
   font-weight: bold;
   display: flex;
   font-size: 13px;
   font-family: jost;
-  margin: 130% -4% -54% -97%;
+  margin: 124% -4% -60% -122%;
 }
-.palabra2movil{
+
+.palabra2movil {
   width: 110%;
-  margin: 71% 1% 1% -91%;
+  margin: 71% 1% 1% -111%;
 }
-.palabra3movil{
+
+.palabra3movil {
   color: #3A5CA8;
   font-weight: bold;
   display: flex;
-  font-size: 20px;
+  font-size: 19px;
   font-family: jost;
-  margin: 71% -4% -114% -86%;
+  margin: 75% -4% -114% -106%;
 }
+
 .bienvenida {
   display: none;
 }
-.bienvenida2{
+
+.bienvenida2 {
   display: flex;
   flex-direction: column;
   justify-content: start;
   align-items: flex-start;
   max-width: 100%;
   width: 1978px;
-  background-color: rgba(255,255,255,.5);
+  background-color: rgba(255, 255, 255, .5);
   height: 105px;
   border-radius: -2 -3 74% 0;
   margin: -35% 2% 0% 0%;
@@ -77,64 +82,69 @@ article {
 }
 
 .logo {
-
-  width: 108%;
+  width: 93%;
   height: auto;
   margin: 20%;
   align-items: center;
-  margin: 10% 2% 1% 24%;
+  margin: 2% 2% 1% 28%;
 }
 
 .ash {
   display: none;
 }
 
-nav{
-  padding: 2% 1% 4% 4%;
+nav {
+  padding: 3% 1% 9% 4%;
   background-color: #1D2C5E;
 
 }
+
 #buscador {
-  margin: 1% 1% 1% 15%;
+  margin: 0% 1% 0% 1%;
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
   background-color: #efe6e6;
   border-radius: 10px;
+  font-size: 11px;
 }
-.tipos{
+
+.tipos {
   display: flex;
-  margin: 0% 1% 1% 23%;
-  background-color: #1D2C5E;
-  padding: 1% 1% 1% 1%;
-  border-color: #1D2C5E;
-  color: white;
-}
-.resistant{
-  display: flex;
-  margin: 1% 1% 1% 18%;
-  background-color: #1D2C5E;
-  padding: 1% 1% 1% 1%;
-  border-color: #1D2C5E;
-  color: white;
-}
-.weaknesses{
-  display: flex;
-  margin: 1% 1% 1% 15%;
+  margin: -5% 1% 1% -15%;
   background-color: #1D2C5E;
   padding: 1% 1% 1% 1%;
   border-color: #1D2C5E;
   color: white;
 }
 
-.ordenar{
+.resistant {
   display: flex;
-    background-color: #76CDF4;
-    border-radius: 10px;
-    margin: 1% 1% 1% 31%;
-    width: 34%;
-    color: #1D2C5E;
-    font-size: 12px;
+  margin: -10% 1% 1% 17%;
+  background-color: #1D2C5E;
+  padding: 1% 1% 1% 1%;
+  border-color: #1D2C5E;
+  color: white;
+}
+
+.weaknesses {
+  display: flex;
+  margin: -10% 1% 1% 56%;
+  background-color: #1D2C5E;
+  padding: 1% 1% 1% 1%;
+  border-color: #1D2C5E;
+  color: white;
+}
+
+.ordenar {
+  display: flex;
+  background-color: #76CDF4;
+  border-radius: 10px;
+  margin: -19% 1% 1% 64%;
+  width: 34%;
+  color: #1D2C5E;
+  font-size: 11px;
+  font-weight: 700;
 }
 
 
@@ -143,72 +153,86 @@ nav{
   flex-wrap: wrap;
   justify-items: center;
   justify-content: center;
+  margin: 3% 0 0 0;
 }
 
 .cardImage {
   background-color: #8FFEBC;
-    border-radius: 28px;
-    width: 295px;
-    height: 434px;
-    font-family: 'Inter', sans-serif;
-    margin: 1%;
-    padding: 1%;
+  border-radius: 28px;
+  width: 295px;
+  height: 434px;
+  font-family: 'Inter', sans-serif;
+  margin: 1%;
+  padding: 1%;
 }
-.rectanguloInterno{
+
+.rectanguloInterno {
   background-color: #E8FFF1;
   width: 87%;
   height: 92%;
   margin: -3% 19% -1% 3%;
   padding: 0% 1% 1% 5%;
 }
-.num{
+
+.num {
   font-size: 90%;
   padding: 3% 7% 5% 0%;
 }
-.nombre{
+
+.nombre {
   text-transform: capitalize;
   padding: 0% 5% 5% 0%;
   margin: -13% 1% 1% 0%;
 }
-.negrita{
+
+.negrita {
   font-weight: 900;
 }
-.generacionNumero{
+
+.generacionNumero {
   font-weight: 600;
-    text-transform: capitalize;
-    margin: -6% 1% 1% 0%;
+  text-transform: capitalize;
+  margin: -6% 1% 1% 0%;
 }
-.generacionNombre{
+
+.generacionNombre {
   font-weight: 600;
-    text-transform: capitalize;
-    margin: -1% 1% 1% 0%;
+  text-transform: capitalize;
+  margin: -1% 1% 1% 0%;
 }
-.cp{
+
+.cp {
   margin: -23% -13% -5% 68%;
   color: #C012B9;
 }
-.hp{
+
+.hp {
   margin: 4% -14% -4% 68%;
   color: #C012B9;
 }
-.imagen{
+
+.imagen {
   width: 60%;
   margin: 13% 3% 4% 17%;
 }
-.altura{
+
+.altura {
   font-weight: 600;
   margin: -6% 1% 1% 14%;
 }
-.peso{
+
+.peso {
   font-weight: 600;
   margin: -6% 1% 1% 50%;
 }
-.tipo{
+
+.tipo {
   font-size: 15px;
   margin: 1% 1% 1% 1%;
   text-align: center;
 }
-.resistencia{
+
+.resistencia {
   text-align: center;
   font-size: smaller;
   margin: 0% 1% 1% -3%;
@@ -223,13 +247,14 @@ nav{
   font-weight: normal;
 }
 
-.palabraResistant{
+.palabraResistant {
   color: #3A5CA8;
   text-align: center;
   margin: -1% 1% 1% 1%;
   font-size: 12px;
 }
-.debilidad{
+
+.debilidad {
   text-align: center;
   font-size: small;
   margin: 0% 1% 1% -3%;
@@ -243,60 +268,71 @@ nav{
   align-items: center;
   font-weight: 100;
 }
-.palabraDebilidad{
+
+.palabraDebilidad {
   color: #FE8FD2;
-    text-align: center;
-    margin: 2% 1% 1% 1%;
-    font-size: 12px;
+  text-align: center;
+  margin: 2% 1% 1% 1%;
+  font-size: 12px;
 }
-.imagenHuevo{
+
+.imagenHuevo {
   margin: -13% 1% 1% 64%;
   width: 7%;
 }
-.huevo{
+
+.huevo {
   margin: -18% 1% 1% 73%;
 }
-.caramelo{
+
+.caramelo {
   width: 8%;
   height: auto;
   margin: -19% 1% 12% 1%;
 }
-.infoCaramelo{
+
+.infoCaramelo {
   margin: -30% 1% 9% 11%;
 }
+
 .pokemonArticulo h1 {
   color: black;
 }
-.tiposPokemon{
-display: flex;
-justify-content: space-around;
+
+.tiposPokemon {
+  display: flex;
+  justify-content: space-around;
 }
-.noShow{
+
+.noShow {
   display: none;
 }
+
 .grass {
   background-color: #098236;
-    margin: 1% 1% 1% 1%;
-    border-radius: 10px;
-    width: 40%;
-    display: flex;
-    justify-content: center;
-    text-transform: capitalize;
-    font-size: 75%;
-    color: white;
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 75%;
+  color: white;
 }
+
 .poison {
   background-color: #662F9C;
-    margin: 1% 1% 1% 1%;
-    border-radius: 10px;
-    width: 40%;
-    display: flex;
-    justify-content: center;
-    text-transform: capitalize;
-    font-size: 75%;
-    color: white;
+  margin: 1% 1% 1% 1%;
+  border-radius: 10px;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+  text-transform: capitalize;
+  font-size: 75%;
+  color: white;
 }
-.water{
+
+.water {
   background-color: #1054E3;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -307,7 +343,8 @@ justify-content: space-around;
   font-size: 75%;
   color: white;
 }
-.fire{
+
+.fire {
   background-color: #FF4B59;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -318,7 +355,8 @@ justify-content: space-around;
   font-size: 75%;
 
 }
-.flying{
+
+.flying {
   background-color: #9AB9CE;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -328,7 +366,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.normal{
+
+.normal {
   background-color: #7F535E;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -339,7 +378,8 @@ justify-content: space-around;
   font-size: 75%;
   color: white;
 }
-.ice{
+
+.ice {
   background-color: #88DCEE;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -349,7 +389,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.electric{
+
+.electric {
   background-color: #F9FF6C;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -359,7 +400,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.rock{
+
+.rock {
   background-color: #864327;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -370,7 +412,8 @@ justify-content: space-around;
   font-size: 75%;
   color: white;
 }
-.bug{
+
+.bug {
   background-color: #3EA054;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -381,7 +424,8 @@ justify-content: space-around;
   font-size: 75%;
   color: white;
 }
-.dark{
+
+.dark {
   background-color: #5A5A78;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -391,7 +435,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.dragon{
+
+.dragon {
   background-color: #60D5E8;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -401,7 +446,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.fairy{
+
+.fairy {
   background-color: #A71545;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -413,7 +459,7 @@ justify-content: space-around;
   color: white;
 }
 
-.fighting{
+.fighting {
   background-color: #BB380F;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -423,7 +469,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.ghost{
+
+.ghost {
   background-color: #946997;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -433,7 +480,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.ground{
+
+.ground {
   background-color: #C1A077;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -443,7 +491,8 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.psychic{
+
+.psychic {
   background-color: #FC1A91;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -454,7 +503,8 @@ justify-content: space-around;
   font-size: 75%;
   color: white;
 }
-.steel{
+
+.steel {
   background-color: #588372;
   margin: 1% 1% 1% 1%;
   border-radius: 10px;
@@ -464,11 +514,12 @@ justify-content: space-around;
   text-transform: capitalize;
   font-size: 75%;
 }
-.filtro{
-  display:none;
+
+.filtro {
+  display: none;
 }
 
-@media (min-width: 768px) and (max-width:1000px) {
+@media (min-device-width: 768px) and (max-device-width:1000px) {
   .logo {
     display: flex;
     width: 150%;
@@ -485,7 +536,7 @@ justify-content: space-around;
     height: auto;
   }
 
-   .palabra1 {
+  .palabra1 {
     display: flex;
     font-size: 13px;
     font-family: "Jost";
@@ -507,16 +558,20 @@ justify-content: space-around;
     color: #3A5CA8;
     font-weight: 900;
     margin: 0% 5%;
-}
-.palabra1movil {
-  display: none;
-}
-.palabra2movil{
-  display: none;
-}
-.palabra3movil{
-  display: none;
-}
+  }
+
+  .palabra1movil {
+    display: none;
+  }
+
+  .palabra2movil {
+    display: none;
+  }
+
+  .palabra3movil {
+    display: none;
+  }
+
   .bienvenida {
     display: flex;
     flex-direction: column;
@@ -528,10 +583,12 @@ justify-content: space-around;
     height: 153px;
     border-radius: 0 0 100% 0;
   }
-  .bienvenida2{
+
+  .bienvenida2 {
     display: none;
   }
-  .calcular{
+
+  .calcular {
     display: flex;
     background-color: #1D2C5E;
     border-radius: 10px;
@@ -541,49 +598,54 @@ justify-content: space-around;
     font-size: 11px;
     padding: 1%;
     font-weight: 600;
-  
+
   }
-  .calcular2{
+
+  .calcular2 {
     display: none;
   }
-  nav{
+
+  nav {
     padding: 1% 1% 1% 4%;
     background-color: #1D2C5E;
-  
+
   }
+
   #buscador {
     margin: 1% 1% 1% -1%;
     background-color: #efe6e6;
     border-radius: 10px;
-}
-  
-  .tipos{
-   
+  }
+
+  .tipos {
+
     margin: -6.5% 3% -2% 25%;
     background-color: #1D2C5E;
     padding: 1% 1% 1% 1%;
     border-color: #1D2C5E;
     color: white;
   }
-  .resistant{
-   
+
+  .resistant {
+
     margin: -5% 1% 0% 40%;
     background-color: #1D2C5E;
     padding: 1% 1% 1% 1%;
     border-color: #1D2C5E;
     color: white;
   }
-  .weaknesses{
-  
+
+  .weaknesses {
+
     margin: -5% 1% 0% 59%;
     background-color: #1D2C5E;
     padding: 1% 1% 1% 1%;
     border-color: #1D2C5E;
     color: white;
   }
-  
-  .ordenar{
-    
+
+  .ordenar {
+
     background-color: #76CDF4;
     border-radius: 10px;
     margin: -6% 1% 1% 82%;
@@ -592,7 +654,8 @@ justify-content: space-around;
     font-size: 12px;
   }
 }
-@media only screen and (min-width:1024px) {
+
+@media screen and (min-device-width:1024px) {
   .logo {
     display: flex;
     width: 118%;
@@ -609,7 +672,7 @@ justify-content: space-around;
     height: auto;
   }
 
-   .palabra1 {
+  .palabra1 {
     display: flex;
     font-size: 13px;
     font-family: "Jost";
@@ -631,16 +694,20 @@ justify-content: space-around;
     color: #3A5CA8;
     font-weight: 900;
     margin: 0% 5%;
-}
-.palabra1movil {
-  display: none;
-}
-.palabra2movil{
-  display: none;
-}
-.palabra3movil{
-  display: none;
-}
+  }
+
+  .palabra1movil {
+    display: none;
+  }
+
+  .palabra2movil {
+    display: none;
+  }
+
+  .palabra3movil {
+    display: none;
+  }
+
   .bienvenida {
     display: flex;
     flex-direction: column;
@@ -652,10 +719,12 @@ justify-content: space-around;
     height: 153px;
     border-radius: 0 0 100% 0;
   }
-  .bienvenida2{
+
+  .bienvenida2 {
     display: none;
   }
-  .calcular{
+
+  .calcular {
     display: flex;
     background-color: #1D2C5E;
     border-radius: 10px;
@@ -665,25 +734,28 @@ justify-content: space-around;
     font-size: 11px;
     padding: 1%;
     font-weight: 600;
-  
+
   }
-  .calcular2{
+
+  .calcular2 {
     display: none;
   }
-  nav{
+
+  nav {
     padding: 4% 1% 2% 4%;
     background-color: #1D2C5E;
-  
+
   }
+
   #buscador {
     margin: -1.7% 1% -6% -2%;
     background-color: #efe6e6;
     border-radius: 13px;
     padding: 5px;
     width: 24%;
-}
-  
-  .tipos{
+  }
+
+  .tipos {
     margin: -5% 3% -2% 22%;
     background-color: #1D2C5E;
     padding: 1% 1% 1% 1%;
@@ -691,7 +763,8 @@ justify-content: space-around;
     color: white;
     font-size: 20px;
   }
-  .resistant{
+
+  .resistant {
     margin: -5% 1% 0% 38%;
     background-color: #1D2C5E;
     padding: 1% 1% 1% 1%;
@@ -699,15 +772,17 @@ justify-content: space-around;
     color: white;
     font-size: 20px;
   }
-   .weaknesses{
+
+  .weaknesses {
     margin: -5% 1% -2% 56%;
     background-color: #1D2C5E;
     padding: 1% 1% 1% 1%;
     border-color: #1D2C5E;
     color: white;
     font-size: 20px;
-} 
-  .ordenar{
+  }
+
+  .ordenar {
     background-color: #76CDF4;
     border-radius: 36px;
     margin: -5.5% 1% 1% 82%;
@@ -716,6 +791,153 @@ justify-content: space-around;
     font-size: 17px;
     padding: 0.3%;
     font-weight: 600;
+  }
 }
+
+
+@media screen and (min-device-width:1600px) {
+  .logo {
+    display: flex;
+    width: 78%;
+    height: auto;
+    margin: 1% 10%;
+    align-items: center;
+  }
+
+  .ash {
+    display: flex;
+    margin: 19% 0% 13% 38%;
+    z-index: 2;
+    width: 55%;
+    height: auto;
+  }
+
+  .palabra1 {
+    display: flex;
+    font-size: 22px;
+    font-family: "Jost";
+    color: #3A5CA8;
+    font-weight: bold;
+    margin: 9% 5%;
+  }
+
+  .palabra2 {
+    display: flex;
+    width: 229px;
+    margin: 29% -150%;
+  }
+
+  .palabra3 {
+    display: flex;
+    font-size: 30px;
+    font-family: "Jost";
+    color: #3A5CA8;
+    font-weight: 900;
+    margin: 3% 5%;
+  }
+
+  .palabra1movil {
+    display: none;
+  }
+
+  .palabra2movil {
+    display: none;
+  }
+
+  .palabra3movil {
+    display: none;
+  }
+
+  .bienvenida {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+    max-width: 40%;
+    width: 1757px;
+    background-color: rgba(255, 255, 255, .5);
+    height: 232px;
+    border-radius: 0 0 100% 0;
+  }
+
+  .bienvenida2 {
+    display: none;
+  }
+
+  .calcular {
+    display: flex;
+    background-color: #1D2C5E;
+    border-radius: 15px;
+    margin: 1% 1% 1% 8%;
+    width: 31%;
+    color: white;
+    font-size: 12px;
+    padding: 1%;
+    font-weight: 600;
+
+  }
+
+  .calcular2 {
+    display: none;
+  }
+
+  nav {
+    padding: 95px 1% 0% 4%;
+    background-color: #1D2C5E;
+    margin: 0% 0% 1% 0%;
+
+  }
+
+  #buscador {
+    margin: -4.7% 1% -6% -1%;
+    background-color: #efe6e6;
+    border-radius: 40px;
+    padding: 10px;
+    width: 22%;
+    font-size: 20px;
+  }
+
+  .tipos {
+    background-color: #1D2C5E;
+    padding: 1% 1% 1% 1%;
+    border-color: #1D2C5E;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 38%;
+  }
+
+  .resistant {
+    background-color: #1D2C5E;
+    border-color: #1D2C5E;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 38%;
+  }
+
+  .weaknesses {
+    background-color: #1D2C5E;
+    padding: 1% 1% 1% 1%;
+    border-color: #1D2C5E;
+    color: white;
+    font-size: 27px;
+    position: absolute;
+    top: 38%;
+  }
+
+  .ordenar {
+    background-color: #76CDF4;
+    border-radius: 36px;
+    margin: 2.5% 2% 0% 83.5%;
+    width: 14%;
+    color: #1D2C5E;
+    font-size: 24px;
+    font-weight: 600;
+    display: flex;
+    align-content: stretch;
+    flex-direction: column-reverse;
+    align-items: center;
+    justify-content: space-between;
   }
 }
