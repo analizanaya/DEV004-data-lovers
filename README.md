@@ -26,7 +26,7 @@ Para poder conocer a nuestros usuarios realizamos un sondeo en un grupo de usuar
 ### Prototipo de baja fidelidad
 ![Baja-fidelidad](./prototipobaja.png)
 
-### Prototipo de alta fidelidad
+### Prototipo de alta fidelidad - Mostrar
 ![Alta-fidelidad](./HI1.png)
 ### Historia N°2 - Filtrar
 **Como:** Yo, como jugadora novata de Pokemon Go, 
@@ -37,25 +37,25 @@ Para poder conocer a nuestros usuarios realizamos un sondeo en un grupo de usuar
 - En el input "Nombre Pokémon", se podrá escribir el nombre del Pokémon a buscar.
 - Al dar clic en cada uno de los botones, se despliega una lista para que el usuario escoja una característica a filtrar.
 - Al dar clic se visualizará el resultado de la elección.
-### Prototipo de alta fidelidad
+### Prototipo de alta fidelidad - Filtrar
 ![Alta-fidelidad](./HU2.JPG)
 ### Historia N°3 - Ordenar
-**Como:** Jugadora de Pokémon Go Novata.\
-**Quiero:** poder ordenar los diferentes tipos de pokemones de acuerdo a :Height y CP de manera ascendente y descendente en ambos casos/ poder encontrar de manera rápida las características que busco de cada personaje ..\
-**Para:** Poder encontrar de manera rápida las características que busco de cada personaje ..\
+**Como:** Jugadora novata de Pokémon Go.\
+**Quiero:** Ordenar los diferentes tipos de pokemones por CP de manera ascendente y descendente.\
+**Para:** Comparar las características de cada personaje.\
 **Criterios de aceptación**
-- Poder visualizar en la interfaz el selector Ordenar .
-- Visualizar las 4 opciones para ordenar en una lista desplegable.
-- Al seleccionar una de las 4 opciones, se visualizará el resultado  en un Alert de la elección.
-### Prototipo de alta fidelidad
+- Poder visualizar en la interfaz el selector Ordenar.
+- Visualizar las 2 opciones para ordenar en una lista desplegable: Ascending CP y Descending CP.
+- Al seleccionar una de las 2 opciones, se visualizarán las tarjetas de acuerdo al orden elegido.
+### Prototipo de alta fidelidad - Ordenar
 ![Alta-fidelidad](./HU3.JPG)
 ### Historia N°4 - Calcular
 **Como:** Yo, como jugadora novata de Pokemon Go, 
 **Quiero:** poder realizar algunos cálculos con la data disponible en ésta página, como : hallar los porcentajes de pokemones por Tipo / 
-**Para:** Saber el porcentaje de su poblacion-clasificación, las crean relaciones entre ellos basadas en las ventajas y debilidades de los tipos. \
+**Para:** Saber el porcentaje que ocupa en el universo Pokémon. \
 **Criterios de aceptación**
 - Visualizar en la interfaz botón para realizar el cálculo.
 - Se desplegará una lista con los tipos de pokemones, para seleccionar el tipo del que se desea saber su porcentaje.
 - El resultado se mostrará en un Alert.
-### Prototipo de alta fidelidad
+### Prototipo de alta fidelidad - Calcular
 ![Alta-fidelidad](./HU4.JPG)
